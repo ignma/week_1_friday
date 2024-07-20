@@ -1,3 +1,7 @@
+// Write a program to remove duplicates from an unsorted linked list
+// For example -: Input: array =  [3,5,3,7,8,5,10]
+// Output: [3,5,7,8,10]
+
 import java.util.HashSet;
 import java.util.LinkedList;
 

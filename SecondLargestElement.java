@@ -1,3 +1,7 @@
+// write a program that takes an array and Find Second largest element in an array
+// For example -: Input: array = [12, 35, 1, 10, 34, 1]
+// Output: The second largest element is 34.
+
 public class SecondLargestElement {
     
     public static int findSecondLargest(int[] arr) {
